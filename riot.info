@@ -1,0 +1,2 @@
+VERSION="0.13.5"
+DOWNLOAD="https://github.com/vector-im/riot-web/releases/download/v${VERSION}/riot-v${VERSION}.tar.gz"
